@@ -1,4 +1,3 @@
-// import {Directive, ElementRef, OnInit, OnDestroy} from 'angular2/core';
 import {Events} from 'ionic-angular';
 import {Gesture} from 'ionic-angular/gestures/gesture';
 import {Directive, ElementRef} from "@angular/core";
